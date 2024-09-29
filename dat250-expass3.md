@@ -59,3 +59,5 @@ Could be useful for seeing which kinds of items they've purchased, ignoring dupl
 I just realised reading the installation guide again that i downloaded MongoDB 7.0 and not 4.4 
 
 Hope thats not a major issue
+
+My style fixes to the document are ignored in github and i didn't know
